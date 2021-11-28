@@ -2,7 +2,6 @@
 - 🐱‍👤 Sou Técnico em Automação Industrial e Engenheiro Eletricista.
 - 😇 Gosto de ir a igreja geralmente as quintas e domingos.
 - 🙃 Meus principais hobbis são: ler, futebol, tênis de mesa e videogame.
-- 🌱 Estou atualmente participando de bootcamps na plataforma da Digital Inovation One (DIO). Tenho aprendido muito com eles (Inclusive a usar as plataformas git/github). A comunidade é incrível.
 - 💞️ Atualmente estou interessado em trabalhar na área de tecnologia.
 
 <!---
